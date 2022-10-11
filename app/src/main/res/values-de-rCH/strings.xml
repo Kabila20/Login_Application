@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login-Anwendung</string>
+
+    <string name="email">Email</string>
+    <string name="password">Passwort</string>
+    <string name="login">Anmeldung</string>
+    <string name="signup">Anmelden</string>
+    <string name="lang">Sprache ändern</string>
+
+</resources>

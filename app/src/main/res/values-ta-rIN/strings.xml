@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">உள்நுழைவு விண்ணப்பம்</string>
+
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="login">உள்நுழைய</string>
+    <string name="signup">பதிவு</string>
+    <string name="lang">மொழியை மாற்றவும்</string>
+
+</resources>
